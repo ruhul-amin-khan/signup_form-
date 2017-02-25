@@ -1,0 +1,87 @@
+
+.form_control{
+	display: block;
+    width: 40%;
+    height: 50px;
+    /*padding: 6px 12px;*/
+    font-size: 14px;
+    line-height: 1;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+	display: block;
+    width: 40%;
+    height: 50px;
+    /*padding: 6px 12px;*/
+    font-size: 14px;
+    line-height: 1;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    margin:50px auto;
+    text-align: center;
+
+}
+
+.signup_heading h1{
+	text-align: center;
+}
+
+
+.part3{
+    border: 1px solid black;
+    padding: 20px;
+    margin-bottom: 30px;
+    background: #fff;
+    width: 40%;
+    margin: 50px auto;
+}
+
+.gender label{
+	
+	font-size: 18px;
+	color: black;
+	margin: 10px auto;
+}
+
+.fa {
+    font-size: 30px;
+    border: 1px solid coral;
+    padding: 20px;
+    margin-right: 20px;
+}
+
+
+.drop_box{
+	height: 90px;
+	width: 90px;
+	border: 1px solid coral;
+
+}
+
+.button{
+	text-align: center;
+
+}
+
+
+.part4{
+	margin: 50px auto;
+	border: 1px solid black;
+	width: 40%;
+	height: 100px;
+}
+
+#submit{
+	height: 40px;
+}
+
+.negative{
+    color:red;
+    text-align: center;
+   margin-top: -50px;
+   margin-bottom: 0px;
+
+}
